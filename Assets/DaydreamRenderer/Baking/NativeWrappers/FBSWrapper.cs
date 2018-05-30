@@ -17,7 +17,7 @@
 using UnityEngine;
 using System.Collections;
 using System.IO;
-using FlatBuffers;
+using daydreamrenderer.FlatBuffers;
 using System;
 
 namespace daydreamrenderer

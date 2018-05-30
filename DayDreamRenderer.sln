@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio for Mac
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayDreamRenderer", "DayDreamRenderer.csproj", "{8A91FE7E-BF2F-DD08-CAE3-A643A13E7C65}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayDreamRenderer.Editor", "DayDreamRenderer.Editor.csproj", "{C6283D49-70B1-3EC5-3E72-530985002117}"

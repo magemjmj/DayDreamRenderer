@@ -19,7 +19,7 @@ using System.Collections;
 using System;
 using System.IO;
 using daydreamrenderer;
-using FlatBuffers;
+using daydreamrenderer.FlatBuffers;
 using System.Collections.Generic;
 
 namespace daydreamrenderer

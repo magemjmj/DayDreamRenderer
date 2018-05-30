@@ -25,7 +25,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using System.IO;
 using daydreamrenderer;
-using FlatBuffers;
+using daydreamrenderer.FlatBuffers;
 using System.Threading;
 using UnityEngine.SceneManagement;
 using System.Reflection;
